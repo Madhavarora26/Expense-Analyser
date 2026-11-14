@@ -1,0 +1,12 @@
+food,250
+food,180
+food,420
+food,90
+travel,1200
+travel,300
+travel,800
+books,650
+books,1200
+books,300
+entertainment,500
+entertainment,150

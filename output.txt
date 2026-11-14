@@ -1,0 +1,21 @@
+sync read: 1.831ms
+First expense: { category: 'food', amount: 250 }
+Total spent: 6040
+Big expenses: 4 [
+  { category: 'travel', amount: 1200 },
+  { category: 'travel', amount: 800 },
+  { category: 'books', amount: 650 },
+  { category: 'books', amount: 1200 }
+]
+With fee: 300 | Original: 250
+Totals by category: { food: 940, travel: 2300, books: 2150, entertainment: 650 }
+food (Daily need): Rs 940 - OK
+travel (Commute): Rs 2300 - OVER 1500
+books (Study): Rs 2150 - OVER 1500
+entertainment (Other): Rs 650 - OK
+Remaining: 700
+Remaining: 200
+Over budget by 200
+Async read started
+Loop finished
+Async read finished
